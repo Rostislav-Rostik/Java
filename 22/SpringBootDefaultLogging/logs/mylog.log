@@ -1,0 +1,2 @@
+2023-11-15T20:07:42.772+01:00  WARN 3228 --- [http-nio-8080-exec-1] o.o.sblogging.controller.MainController  : This is WARN
+2023-11-15T20:07:42.780+01:00 ERROR 3228 --- [http-nio-8080-exec-1] o.o.sblogging.controller.MainController  : This is ERROR
